@@ -696,6 +696,7 @@
 		/obj/item/stack/medical/gauze,
 		/obj/item/stack/medical/bone_gel,
 		/obj/item/borg/apparatus/organ_storage,
+		/obj/item/storage/bag/chemistry/cyborg, //bubber-edit
 		/obj/item/borg/lollipop,
 	)
 	radio_channels = list(RADIO_CHANNEL_MEDICAL)
@@ -828,6 +829,7 @@
 		/obj/item/storage/bag/tray,
 		/obj/item/storage/bag/tray, // SKYRAT EDIT: Moves the second tray up to be near the default one
 		/obj/item/cooking/cyborg/power, // SKYRAT EDIT
+		/obj/item/storage/bag/plants/cyborg, //bubber-edit
 		/obj/item/pen,
 		/obj/item/toy/crayon/spraycan/borg,
 		/obj/item/extinguisher/mini,
